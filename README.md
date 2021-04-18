@@ -6,5 +6,5 @@
 折叠储物格子 $2
 ![折叠储物格子 $2](figures/IMG_20210418_091502.jpg)
 
-fire hd 7   $10/IMG_20210418_094645.jpg
+fire hd 7   $10
 ![fire hd 7   $10/IMG_20210418_094645.jpg](figures/IMG_20210418_094645.jpg)
